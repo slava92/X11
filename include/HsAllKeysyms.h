@@ -4,6 +4,7 @@
 #include "HsX11Config.h"
 
 /* Defaults */
+#  define XK_PUBLISHING
 #if HAVE_X11_KEYSYM_H
 #  include <X11/keysym.h>
 #elif HAVE_X11_KEYSYMDEF_H
