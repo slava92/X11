@@ -5,6 +5,7 @@
 
 /* Defaults */
 #  define XK_PUBLISHING
+#  define XK_TECHNICAL
 #if HAVE_X11_KEYSYM_H
 #  include <X11/keysym.h>
 #elif HAVE_X11_KEYSYMDEF_H
