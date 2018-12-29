@@ -1,0 +1,2 @@
+
+This is supposed to be built by running 'stack build' in parent project (xmonad)
